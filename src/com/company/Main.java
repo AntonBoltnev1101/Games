@@ -177,7 +177,7 @@ public class Main {
                             System.out.println("Выиграл игрок №2".toUpperCase(Locale.ROOT));
                             System.out.println("Итоговый счет: ".toUpperCase(Locale.ROOT) + countofballsFirst + " " + countofballsSec);
                             break;
-                        } else if (countofballsFirst == countofballsSec) {
+                        } else {
                             System.out.println("Ничья".toUpperCase(Locale.ROOT));
                             System.out.println("Итоговый счет: ".toUpperCase(Locale.ROOT) + countofballsFirst + " " + countofballsSec);
                             break;
@@ -236,7 +236,7 @@ public class Main {
                             System.out.println("Выиграл игрок №2".toUpperCase(Locale.ROOT));
                             System.out.println("Итоговый счет: ".toUpperCase(Locale.ROOT) + countofballsFirst + " " + countofballsSec);
                             break;
-                        } else if (countofballsFirst == countofballsSec) {
+                        } else {
                             System.out.println("Ничья".toUpperCase(Locale.ROOT));
                             System.out.println("Итоговый счет: ".toUpperCase(Locale.ROOT) + countofballsFirst + " " + countofballsSec);
                             break;
